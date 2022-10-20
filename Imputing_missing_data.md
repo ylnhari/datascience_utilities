@@ -11,4 +11,4 @@ large amounts of information.
       - Approach -> If we know the confirmed delivery date of the product we could say that since customer knows the delivery time he might have ordered it 'n' day's prior to the delivery date (let's say this is 'y').This is just a hypothesis , to test this we can calcuate the date as -> **deilvery date - (no of days it takes to deliver that product to customer in that region on average)** i,e. $y -  n$ .
       - Another approach if we know creation date of the row in the table we can use that date and to estimate an order date bsed on how data flows through tables once
         an order is placed.
-  - Then we imputed the missing values using the picked approach 😎 Happy Coding !!! 😁.
+  - Then we imputed the missing values using the picked approach 😎 Happy Coding !!! 😁. 
