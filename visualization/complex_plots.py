@@ -1,9 +1,3 @@
-import numpy as np
-import pandas as pd
-import seaborn
-from matplotlib import pyplot as plt
-
-
 def horizontal_bar_plot_grouped_for_two_columns_annotate_bars_after_scaling(df, main_column, num_columns1, num_column2):
     """Generate grouped Bar plots for two numerical columns for a categorical column.
     
